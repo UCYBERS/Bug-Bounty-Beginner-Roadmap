@@ -24,13 +24,13 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
  - **Technical**
 	 - **Computer Fundamentals**
 		 - https://www.comptia.org/training/by-certification/a
-		 - https://www.youtube.com/watch?v=tIfRDPekybU
+		 - https://youtu.be/y2kg3MOk1sY?si=UARPFFqJLnN7_U3H
 		 - https://www.tutorialspoint.com/computer_fundamentals/index.htm
-		 - https://onlinecourses.swayam2.ac.in/cec19_cs06/preview
-		 - https://www.udemy.com/course/complete-computer-basics-course/
+		 - https://www.geeksforgeeks.org/computer-fundamentals-tutorial/
+		 - https://www.udemy.com/course/computer-fundamentals-u/
 		 - https://www.coursera.org/courses?query=computer%20fundamentals
 	 - **Computer Networking**
-		 - https://www.youtube.com/watch?v=0AcpUwnc12E&list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K
+		 - https://youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&si=oVf5e0eg5Lh8_Gv2
 		 - https://www.youtube.com/watch?v=qiQR5rTSshw
 		 -https://www.youtube.com/watch?v=L3ZzkOTDins
 		 - https://www.udacity.com/course/computer-networking--ud436
