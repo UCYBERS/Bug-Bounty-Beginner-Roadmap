@@ -57,9 +57,9 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 			 - https://youtu.be/WMy3OzvBWc0?si=ps_aF5AZ4fRGYec-
    	 - **Programming**
 		 - **C**
-			 - https://www.youtube.com/watch?v=irqbmMNs2Bo
+			 - https://youtu.be/87SH2Cn0s9A?si=89Mec5YZBGXKcKsG
    	         - https://academy.ucybers.com/p/c-programming-for-hacking
-			 - https://www.youtube.com/watch?v=ZSPZob_1TOk
+			 - https://youtu.be/KJgsSFOSQv0?si=9bstBmoBB-k8Cg_-
 			 - https://www.programiz.com/c-programming
 		 - **Python**
 			 - https://www.youtube.com/watch?v=ZLga4doUdjY&t=30352s
