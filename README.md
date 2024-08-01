@@ -66,8 +66,8 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 			 - https://youtu.be/_uQrJ0TkZlc?si=FSHrjCFfN4-DJXL4
 			 - https://youtu.be/rfscVS0vtbw?si=tjSgCK9Xup7aZU-o
 		 - **JavaScript**
-			 - https://www.youtube.com/watch?v=-lCF2t6iuUc
-			 - https://www.youtube.com/watch?v=hKB-YGF14SY&t=1486s
+			 - https://youtu.be/W6NZfCO5SIk?si=AsWBI_naaiA7Eeya
+			 - https://youtu.be/PkZNo7MFNFg?si=x6GeqMwW_e3Pnmfa
 			 - https://www.youtube.com/watch?v=jS4aFq5-91M
 		 - **PHP**
 			 - https://www.youtube.com/watch?v=1SnPKhCdlsU
