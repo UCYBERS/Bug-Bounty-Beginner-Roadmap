@@ -49,12 +49,12 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 			 - https://youtu.be/qnXe1gecux8?si=zSkPIdA28hfVbr3-
 			 - https://www.youtube.com/watch?v=UVUd9_k9C6A
 		 - **Linux:**
-			 - https://www.youtube.com/watch?v=fid6nfvCz1I&list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_
-			 - https://www.youtube.com/watch?v=UVUd9_k9C6A		 - 
-			 - https://www.youtube.com/watch?v=GtovwKDemnI
+			 - https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As&si=lrSOP47nwRV-63_0
+			 - https://youtu.be/gd7BXuUQ91w?si=oQD3y4zzYUecoyfu
+			 - https://youtu.be/ZtqBQ68cfJc?si=MdPu18--CktQYuVK
 			 - https://www.youtube.com/watch?v=2PGnYjbYuUo
-			 - https://www.youtube.com/watch?v=e7BufAVwDiM&t=418s
-			 - https://www.youtube.com/watch?v=bYRfRGbqDIw&list=PLkPmSWtWNIyTQ1NX6MarpjHPkLUs3u1wG&index=4
+			 - https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ&si=rqeEYTu9jHPwN_Oj
+			 - https://youtu.be/WMy3OzvBWc0?si=ps_aF5AZ4fRGYec-
    	 - **Programming**
 		 - **C**
 			 - https://www.youtube.com/watch?v=irqbmMNs2Bo
