@@ -32,7 +32,7 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 	 - **Computer Networking**
 		 - https://youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&si=oVf5e0eg5Lh8_Gv2
 		 - https://www.youtube.com/watch?v=qiQR5rTSshw
-		 -https://www.youtube.com/watch?v=L3ZzkOTDins
+		 - https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&si=um2E56jRrlrD_aI6
 		 - https://www.udacity.com/course/computer-networking--ud436
 		 - https://www.coursera.org/professional-certificates/google-it-support
 		 - https://www.udemy.com/course/introduction-to-computer-networks/
