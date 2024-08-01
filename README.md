@@ -45,8 +45,8 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 		 - https://youtu.be/ROjZy1WbCIA?si=5WyHmKyD9xLHeQF6
 	 - **Command Line**
 		 - **Windows:**
-			 - https://www.youtube.com/watch?v=TBBbQKp9cKw&list=PLRu7mEBdW7fDTarQ0F2k2tpwCJg_hKhJQ
-			 - https://www.youtube.com/watch?v=fid6nfvCz1I&list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_
+			 - https://youtu.be/Jfvg3CS1X3A?si=P54O2otUu3BuodEp
+			 - https://youtu.be/qnXe1gecux8?si=zSkPIdA28hfVbr3-
 			 - https://www.youtube.com/watch?v=UVUd9_k9C6A
 		 - **Linux:**
 			 - https://www.youtube.com/watch?v=fid6nfvCz1I&list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_
