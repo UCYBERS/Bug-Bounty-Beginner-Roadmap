@@ -121,9 +121,7 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 		 - Live Overflow :https://www.youtube.com/c/LiveOverflow
    - **Arabic**
      - UCYBERS: https://youtube.com/@ucybers
-	- **Hindi**
-		 - Spin The Hack: https://www.youtube.com/c/SpinTheHack
-		 - Pratik Dabhi: https://www.youtube.com/c/impratikdabhi
+
 
 ## Join Twitter Today!
 
