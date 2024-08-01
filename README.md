@@ -70,9 +70,9 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 			 - https://youtu.be/PkZNo7MFNFg?si=x6GeqMwW_e3Pnmfa
 			 - https://www.youtube.com/watch?v=jS4aFq5-91M
 		 - **PHP**
-			 - https://www.youtube.com/watch?v=1SnPKhCdlsU
-			 - https://www.youtube.com/watch?v=OK_JCtrrv-c
-			 - https://www.youtube.com/watch?v=T8SEGXzdbYg&t=1329s
+			 - https://youtu.be/OK_JCtrrv-c?si=_UYoV__q_ghOyZDJ
+			 - https://youtube.com/playlist?list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih&si=8F4HPw0mKvMRJTwg
+			 - https://youtu.be/xcg9qq6SZ0w?si=dDE56ihKGe7vu49D
 
 # Where to learn from?
  
