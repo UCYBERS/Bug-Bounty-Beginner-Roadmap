@@ -38,11 +38,11 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 		 - https://www.udemy.com/course/introduction-to-computer-networks/
 	 - **Operating Systems**
 		 - https://www.youtube.com/watch?v=z2r-p7xc7c4
-		 - https://www.youtube.com/watch?v=_tCY-c-sPZc
+		 - https://youtu.be/sWbUDq4S6Y8?si=PxHxzDTbj_JCpGGm
 		 - https://www.coursera.org/learn/os-power-user
 		 - https://www.udacity.com/course/introduction-to-operating-systems--ud923
 		 - https://www.udemy.com/course/linux-command-line-volume1/
-		 - https://www.youtube.com/watch?v=v_1zB2WNN14
+		 - https://youtu.be/ROjZy1WbCIA?si=5WyHmKyD9xLHeQF6
 	 - **Command Line**
 		 - **Windows:**
 			 - https://www.youtube.com/watch?v=TBBbQKp9cKw&list=PLRu7mEBdW7fDTarQ0F2k2tpwCJg_hKhJQ
