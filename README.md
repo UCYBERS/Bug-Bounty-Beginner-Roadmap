@@ -91,6 +91,7 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 	 - Infosec Writeups: https://infosecwriteups.com/?gi=3149891cc73d
 	 - Hackerone Hacktivity: https://hackerone.com/hacktivity
 	 - Google VRP Writeups: https://github.com/xdavidhu/awesome-google-vrp-writeups
+   - UCYBERS: https://ucybers.com/
  - **Blogs and Articles**
 	 - Hacking Articles: https://www.hackingarticles.in/
 	 - Vickie Li Blogs: https://vickieli.dev/
@@ -102,6 +103,7 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 	 - Reddit: https://www.reddit.com/r/websecurity/
 	 - Reddit: https://www.reddit.com/r/netsec/
 	 - Bugcrowd Discord: https://discord.com/invite/TWr3Brs
+    - UCYBERS Discord: https://discord.com/invite/Y3s4s4E7
  - **Official Websites**
     - UCYBERS: https://ucybers.com/
 	 - OWASP: https://owasp.org/
@@ -127,7 +129,7 @@ Hello! I'm **DARK**. I work as a Network and Information Security Engineer and E
 
 World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
 
-UCYBERS Twitter: https://x.com/UCybersX
+- UCYBERS Twitter: https://x.com/UCybersX
 
 ## PRACTICE! PRACTICE! and PRACTICE!
 
