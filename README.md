@@ -101,22 +101,22 @@ Rewards depend on severity and impact:
 	 - [Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups)
   	 - [UCYBERS](https://ucybers.com/)
  - ## **📝 Blogs and Articles**
-	 - Hacking Articles: https://www.hackingarticles.in/
-	 - Vickie Li Blogs: https://vickieli.dev/
-   - UCYBERS Blogs: https://ucybers.com/blog/
-	- Bugcrowd Blogs: https://www.bugcrowd.com/blog/
-	 - Intigriti Blogs: https://blog.intigriti.com/
-	- Portswigger Blogs: https://portswigger.net/blog
- - **Forums**
-	 - Reddit: https://www.reddit.com/r/websecurity/
-	 - Reddit: https://www.reddit.com/r/netsec/
-	 - Bugcrowd Discord: https://discord.com/invite/TWr3Brs
-    - UCYBERS Discord: https://discord.com/invite/Y3s4s4E7
- - **Official Websites**
-    - UCYBERS: https://ucybers.com/
-	 - OWASP: https://owasp.org/
-	 - PortSwigger: https://portswigger.net/
-	 - Cloudflare: https://www.cloudflare.com/
+	 - [Hacking Articles](https://www.hackingarticles.in/)
+	 - [Vickie Li Blogs](https://vickieli.dev/)
+  	 - [UCYBERS Blogs](https://ucybers.com/blog/)
+	 - [Bugcrowd Blogs](https://www.bugcrowd.com/blog/)
+	 - [Intigriti Blogs](https://blog.intigriti.com/)
+	 - [Portswigger Blogs](https://portswigger.net/blog)
+ - ## **🧑‍💻 Forums & Communities**
+	 - [Reddit /r/websecurity](https://www.reddit.com/r/websecurity/)
+	 - [Reddit /r/netsec](https://www.reddit.com/r/netsec/)
+	 - [Bugcrowd Discord](https://discord.com/invite/TWr3Brs)
+  	 - [UCYBERS Discord](https://discord.com/invite/Y3s4s4E7)
+ - ## **🌐 Official Websites**
+ 	 - [UCYBERS](https://ucybers.com/)
+	 - [OWASP](https://owasp.org/)
+	 - [PortSwigger](https://portswigger.net/)
+	 - [Cloudflare](https://www.cloudflare.com/)
  - **YouTube Channels**
     - **English**
 		 - Insider PHD: https://www.youtube.com/c/InsiderPhD
