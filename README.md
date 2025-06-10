@@ -32,10 +32,10 @@ Rewards depend on severity and impact:
 		 - [CompTIA A+](https://www.comptia.org/training/by-certification/a)
 		 - [Computer Basics YouTube](https://youtu.be/y2kg3MOk1sY?si=UARPFFqJLnN7_U3H)
 		 - [TutorialsPoint](https://www.tutorialspoint.com/computer_fundamentals/index.htm)
-		 - https://www.geeksforgeeks.org/computer-fundamentals-tutorial/
-		 - https://www.udemy.com/course/computer-fundamentals-u/
-		 - https://www.coursera.org/courses?query=computer%20fundamentals
-	 - **Computer Networking**
+		 - [GeeksForGeeks](https://www.geeksforgeeks.org/computer-fundamentals-tutorial/)
+		 - [Udemy Course](https://www.udemy.com/course/computer-fundamentals-u/)
+		 - [Coursera](https://www.coursera.org/courses?query=computer%20fundamentals)
+	 - ### **🔸Computer Networking**
 		 - https://youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&si=oVf5e0eg5Lh8_Gv2
 		 - https://www.youtube.com/watch?v=qiQR5rTSshw
 		 - https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&si=um2E56jRrlrD_aI6
