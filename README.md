@@ -117,33 +117,33 @@ Rewards depend on severity and impact:
 	 - [OWASP](https://owasp.org/)
 	 - [PortSwigger](https://portswigger.net/)
 	 - [Cloudflare](https://www.cloudflare.com/)
- - **YouTube Channels**
-    - **English**
-		 - Insider PHD: https://www.youtube.com/c/InsiderPhD
-		 - Stok: https://www.youtube.com/c/STOKfredrik
-		 - Bug Bounty Reports Explained: https://www.youtube.com/c/BugBountyReportsExplained
-		 - Vickie Li: https://www.youtube.com/c/VickieLiDev
-		 - Hacking Simplified: https://www.youtube.com/c/HackingSimplifiedAS
-		 - Pwn function :https://www.youtube.com/c/PwnFunction
-		 - Farah Hawa: https://www.youtube.com/c/FarahHawa
-		 - XSSRat: https://www.youtube.com/c/TheXSSrat
-		 - Zwink: https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
-		 - Live Overflow :https://www.youtube.com/c/LiveOverflow
-   - **Arabic**
-     - UCYBERS: https://youtube.com/@ucybers
+ - ## **🎥 YouTube Channels**
+    - ### **English**
+		 - [InsiderPHD](https://www.youtube.com/c/InsiderPhD)
+		 - [STÖK](https://www.youtube.com/c/STOKfredrik)
+		 - [Bug Bounty Reports Explained](https://www.youtube.com/c/BugBountyReportsExplained)
+		 - [Vickie Li](https://www.youtube.com/c/VickieLiDev)
+		 - [Hacking Simplified](https://www.youtube.com/c/HackingSimplifiedAS)
+		 - [Pwn function](https://www.youtube.com/c/PwnFunction)
+		 - [Farah Hawa](https://www.youtube.com/c/FarahHawa)
+		 - [XSSRat](https://www.youtube.com/c/TheXSSrat)
+		 - [Zwink](https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ)
+		 - [Live Overflow](https://www.youtube.com/c/LiveOverflow)
+   - ### **Arabic**
+     - [UCYBERS](https://youtube.com/@ucybers)
 
 
-## Join Twitter Today!
+# 🐦 Join Twitter Today!
 
-World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
+World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter (X) now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
 
-- UCYBERS Twitter: https://x.com/UCybersX
+- [UCYBERS X (Twitter)](https://x.com/UCybersX)
 
-## PRACTICE! PRACTICE! and PRACTICE!
+# 🔐 PRACTICE! PRACTICE! and PRACTICE!
 
- - **CTF**
-	 - Hacker 101: https://www.hackerone.com/hackers/hacker101
-	 - PicoCTF: https://picoctf.org/
+ - ## **CTF Platforms**
+	 - [Hacker 101](https://www.hackerone.com/hackers/hacker101)
+	 - [PicoCTF](https://picoctf.org/)
 	 - TryHackMe: https://tryhackme.com/ (premium/free)
 	 - HackTheBox: https://www.hackthebox.com/ (premium)
 	 - VulnHub: https://www.vulnhub.com/
