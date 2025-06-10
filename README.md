@@ -50,57 +50,57 @@ Rewards depend on severity and impact:
 		 - [Power User (Coursera)](https://www.coursera.org/learn/os-power-user)
 		 - [Intro to OS (Udacity)](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
 		 - [Linux Command Line (Udemy)](https://www.udemy.com/course/linux-command-line-volume1/)
-		 - https://youtu.be/ROjZy1WbCIA?si=5WyHmKyD9xLHeQF6
+		 - [Linux Operating System](https://youtu.be/ROjZy1WbCIA?si=5WyHmKyD9xLHeQF6)
 	 - ### **🔸Command Line**
 		 - **Windows:**
-			 - https://youtu.be/Jfvg3CS1X3A?si=P54O2otUu3BuodEp
-			 - https://youtu.be/qnXe1gecux8?si=zSkPIdA28hfVbr3-
-			 - https://www.youtube.com/watch?v=UVUd9_k9C6A
+			 - [Intro](https://youtu.be/Jfvg3CS1X3A?si=P54O2otUu3BuodEp)
+			 - [CMD](https://youtu.be/qnXe1gecux8?si=zSkPIdA28hfVbr3-)
+			 - [Full Tutorial](https://www.youtube.com/watch?v=UVUd9_k9C6A)
 		 - **Linux:**
-			 - https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As&si=lrSOP47nwRV-63_0
-			 - https://youtu.be/gd7BXuUQ91w?si=oQD3y4zzYUecoyfu
-			 - https://youtu.be/ZtqBQ68cfJc?si=MdPu18--CktQYuVK
-			 - https://www.youtube.com/watch?v=2PGnYjbYuUo
-			 - https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ&si=rqeEYTu9jHPwN_Oj
-			 - https://youtu.be/WMy3OzvBWc0?si=ps_aF5AZ4fRGYec-
-   	 - **Programming**
-		 - **C**
-			 - https://youtu.be/87SH2Cn0s9A?si=89Mec5YZBGXKcKsG
-   	         - https://academy.ucybers.com/p/c-programming-for-hacking
-			 - https://youtu.be/KJgsSFOSQv0?si=9bstBmoBB-k8Cg_-
-			 - https://www.programiz.com/c-programming
+			 - [Linux Tutorial for Beginners](https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As&si=lrSOP47nwRV-63_0)
+			 - [Terminal Commands](https://youtu.be/gd7BXuUQ91w?si=oQD3y4zzYUecoyfu)
+			 - [Beginner’s Guide](https://youtu.be/ZtqBQ68cfJc?si=MdPu18--CktQYuVK)
+			 - [Linux File System](https://www.youtube.com/watch?v=2PGnYjbYuUo)
+			 - [Command Line Basics](https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ&si=rqeEYTu9jHPwN_Oj)
+			 - [Linux Server Course](https://youtu.be/WMy3OzvBWc0?si=ps_aF5AZ4fRGYec-)
+   	 - ### **🔸Programming**
+		 - **C Programm**
+			 - [C Programming Full Course](https://youtu.be/87SH2Cn0s9A?si=89Mec5YZBGXKcKsG)
+   	  		 - [C Programming For Hacking](https://academy.ucybers.com/p/c-programming-for-hacking) 
+			 - [C Programming Tutorial](https://youtu.be/KJgsSFOSQv0?si=9bstBmoBB-k8Cg_-)
+			 - [Learn C Programming](https://www.programiz.com/c-programming)
 		 - **Python**
-			 - https://youtu.be/kqtD5dpn9C8?si=HR9wQ9c4as3N9J_N
-			 - https://youtu.be/_uQrJ0TkZlc?si=FSHrjCFfN4-DJXL4
-			 - https://youtu.be/rfscVS0vtbw?si=tjSgCK9Xup7aZU-o
+			 - [Simplest Intro](https://youtu.be/kqtD5dpn9C8?si=HR9wQ9c4as3N9J_N)
+			 - [Complete Python Tutorial](https://youtu.be/_uQrJ0TkZlc?si=FSHrjCFfN4-DJXL4)
+			 - [Python Crash Course](https://youtu.be/rfscVS0vtbw?si=tjSgCK9Xup7aZU-o)
 		 - **JavaScript**
-			 - https://youtu.be/W6NZfCO5SIk?si=AsWBI_naaiA7Eeya
-			 - https://youtu.be/PkZNo7MFNFg?si=x6GeqMwW_e3Pnmfa
-			 - https://www.youtube.com/watch?v=jS4aFq5-91M
+			 - [JS Basics](https://youtu.be/W6NZfCO5SIk?si=AsWBI_naaiA7Eeya)
+			 - [Beginner Course](https://youtu.be/PkZNo7MFNFg?si=x6GeqMwW_e3Pnmfa)
+			 - [Project-Based JS](https://www.youtube.com/watch?v=jS4aFq5-91M)
 		 - **PHP**
-			 - https://youtu.be/OK_JCtrrv-c?si=_UYoV__q_ghOyZDJ
-			 - https://youtube.com/playlist?list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih&si=8F4HPw0mKvMRJTwg
-			 - https://youtu.be/xcg9qq6SZ0w?si=dDE56ihKGe7vu49D
+			 - [PHP Crash Course](https://youtu.be/OK_JCtrrv-c?si=_UYoV__q_ghOyZDJ)
+			 - [Complete PHP Playlist](https://youtube.com/playlist?list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih&si=8F4HPw0mKvMRJTwg)
+			 - [Beginner Guide](https://youtu.be/xcg9qq6SZ0w?si=dDE56ihKGe7vu49D)
 
-# Where to learn from?
+# 📍Where to learn from?
  
- - **Books**
-	 - Web Application Hacker's Handbook: https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
-	 - Real World Bug Hunting: https://www.amazon.in/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG
-	 - Bug Bounty Hunting Essentials: https://www.amazon.in/Bug-Bounty-Hunting-Essentials-Quick-paced-ebook/dp/B079RM344H
-	 - Bug Bounty Bootcamp: https://www.amazon.in/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3
-	 - Hands on Bug Hunting: https://www.amazon.in/Hands-Bug-Hunting-Penetration-Testers-ebook/dp/B07DTF2VL6
-	 - Hacker's Playbook 3: https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
-	 - OWASP Testing Guide: https://www.owasp.org/index.php/OWASP_Testing_Project
-	 - Web Hacking 101: https://www.pdfdrive.com/web-hacking-101-e26570613.html
-	 - OWASP Mobile Testing Guide :https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide
- - **Writeups**
-	 - Medium: https://medium.com/analytics-vidhya/a-beginners-guide-to-cyber-security-3d0f7891c93a
-	 - Infosec Writeups: https://infosecwriteups.com/?gi=3149891cc73d
-	 - Hackerone Hacktivity: https://hackerone.com/hacktivity
-	 - Google VRP Writeups: https://github.com/xdavidhu/awesome-google-vrp-writeups
-   - UCYBERS: https://ucybers.com/
- - **Blogs and Articles**
+ - ## **📖 Books**
+	 - [Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
+	 - [Real World Bug Hunting](https://www.amazon.in/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG)
+	 - [Bug Bounty Hunting Essentials](https://www.amazon.in/Bug-Bounty-Hunting-Essentials-Quick-paced-ebook/dp/B079RM344H)
+	 - [Bug Bounty Bootcamp](https://www.amazon.in/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3)
+	 - [Hands on Bug Hunting](https://www.amazon.in/Hands-Bug-Hunting-Penetration-Testers-ebook/dp/B07DTF2VL6)
+	 - [Hacker's Playbook 3](https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
+	 - [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project)
+	 - [Web Hacking 101](https://www.pdfdrive.com/web-hacking-101-e26570613.html)
+	 - [OWASP Mobile Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
+ - ## **✍️ Writeups**
+	 - [Medium Cyber Articles](https://medium.com/analytics-vidhya/a-beginners-guide-to-cyber-security-3d0f7891c93a)
+	 - [Infosec Writeups](https://infosecwriteups.com/?gi=3149891cc73d)
+	 - [Hackerone Hacktivity](https://hackerone.com/hacktivity)
+	 - [Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups)
+  	 - [UCYBERS](https://ucybers.com/)
+ - ## **📝 Blogs and Articles**
 	 - Hacking Articles: https://www.hackingarticles.in/
 	 - Vickie Li Blogs: https://vickieli.dev/
    - UCYBERS Blogs: https://ucybers.com/blog/
