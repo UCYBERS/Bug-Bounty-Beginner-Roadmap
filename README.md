@@ -45,11 +45,11 @@ Rewards depend on severity and impact:
   		 - [CompTIA Network+ (N10-009) Prep](https://academy.ucybers.com/p/network)
   		 - [CCNA (Cisco Certified Network Associate)](https://academy.ucybers.com/p/ccna)
 	 - ### **🔸Operating Systems**
-		 - https://www.youtube.com/watch?v=z2r-p7xc7c4
-		 - https://youtu.be/sWbUDq4S6Y8?si=PxHxzDTbj_JCpGGm
-		 - https://www.coursera.org/learn/os-power-user
-		 - https://www.udacity.com/course/introduction-to-operating-systems--ud923
-		 - https://www.udemy.com/course/linux-command-line-volume1/
+		 - [What is OS?](https://www.youtube.com/watch?v=z2r-p7xc7c4)
+		 - [Introduction to Linux](https://youtu.be/sWbUDq4S6Y8?si=PxHxzDTbj_JCpGGm)
+		 - [Power User (Coursera)](https://www.coursera.org/learn/os-power-user)
+		 - [Intro to OS (Udacity)](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
+		 - [Linux Command Line (Udemy)](https://www.udemy.com/course/linux-command-line-volume1/)
 		 - https://youtu.be/ROjZy1WbCIA?si=5WyHmKyD9xLHeQF6
 	 - ### **🔸Command Line**
 		 - **Windows:**
