@@ -38,10 +38,12 @@ Rewards depend on severity and impact:
 	 - ### **🔸Computer Networking**
 		 - [Network Fundamentals (Cisco Style)](https://youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&si=oVf5e0eg5Lh8_Gv2)
 		 - [How the Internet Works](https://www.youtube.com/watch?v=qiQR5rTSshw)
-		 - https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&si=um2E56jRrlrD_aI6
-		 - https://www.udacity.com/course/computer-networking--ud436
-		 - https://www.coursera.org/professional-certificates/google-it-support
-		 - https://www.udemy.com/course/introduction-to-computer-networks/
+		 - [Computer Networks Full Course](https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&si=um2E56jRrlrD_aI6)
+		 - [Udacity](https://www.udacity.com/course/computer-networking--ud436)
+		 - [Google IT Support (Coursera)](https://www.coursera.org/professional-certificates/google-it-support)
+		 - [Udemy Networking Intro](https://www.udemy.com/course/introduction-to-computer-networks/)
+  		 - [CompTIA Network+ (N10-009) Prep](https://academy.ucybers.com/p/network)
+  		 - [CCNA (Cisco Certified Network Associate)](https://academy.ucybers.com/p/ccna)
 	 - ### **🔸Operating Systems**
 		 - https://www.youtube.com/watch?v=z2r-p7xc7c4
 		 - https://youtu.be/sWbUDq4S6Y8?si=PxHxzDTbj_JCpGGm
