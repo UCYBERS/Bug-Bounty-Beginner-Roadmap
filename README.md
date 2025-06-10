@@ -27,7 +27,7 @@ Rewards depend on severity and impact:
 
 # 📘 What to Learn
 
- - ## **Technical Foundations**
+ - ## **📚 Technical Foundations**
 	 - ### **🔸Computer Fundamentals**
 		 - [CompTIA A+](https://www.comptia.org/training/by-certification/a)
 		 - [Computer Basics YouTube](https://youtu.be/y2kg3MOk1sY?si=UARPFFqJLnN7_U3H)
@@ -36,20 +36,20 @@ Rewards depend on severity and impact:
 		 - [Udemy Course](https://www.udemy.com/course/computer-fundamentals-u/)
 		 - [Coursera](https://www.coursera.org/courses?query=computer%20fundamentals)
 	 - ### **🔸Computer Networking**
-		 - https://youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&si=oVf5e0eg5Lh8_Gv2
-		 - https://www.youtube.com/watch?v=qiQR5rTSshw
+		 - [Network Fundamentals (Cisco Style)](https://youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&si=oVf5e0eg5Lh8_Gv2)
+		 - [How the Internet Works](https://www.youtube.com/watch?v=qiQR5rTSshw)
 		 - https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&si=um2E56jRrlrD_aI6
 		 - https://www.udacity.com/course/computer-networking--ud436
 		 - https://www.coursera.org/professional-certificates/google-it-support
 		 - https://www.udemy.com/course/introduction-to-computer-networks/
-	 - **Operating Systems**
+	 - ### **🔸Operating Systems**
 		 - https://www.youtube.com/watch?v=z2r-p7xc7c4
 		 - https://youtu.be/sWbUDq4S6Y8?si=PxHxzDTbj_JCpGGm
 		 - https://www.coursera.org/learn/os-power-user
 		 - https://www.udacity.com/course/introduction-to-operating-systems--ud923
 		 - https://www.udemy.com/course/linux-command-line-volume1/
 		 - https://youtu.be/ROjZy1WbCIA?si=5WyHmKyD9xLHeQF6
-	 - **Command Line**
+	 - ### **🔸Command Line**
 		 - **Windows:**
 			 - https://youtu.be/Jfvg3CS1X3A?si=P54O2otUu3BuodEp
 			 - https://youtu.be/qnXe1gecux8?si=zSkPIdA28hfVbr3-
