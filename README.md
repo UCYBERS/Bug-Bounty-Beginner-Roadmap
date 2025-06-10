@@ -1,31 +1,37 @@
-# Bug-Bounty-Beginner-Roadmap
-This is a resource for anyone looking to learn bug hunting and provides guidance during the study and learning phase.
+# 🐞 Bug Bounty Beginner Roadmap
+A curated roadmap for aspiring bug bounty hunters to get started, learn effectively, and level up their skills.
 
-Feel free to contribute to this repository!
+## 👋 Introduction
 
-# Bug Bounty Beginner's Roadmap
+Hi, I'm **DARK**, a Network and Information Security Engineer & Ethical Hacker. I’ve created this roadmap to help beginners navigate the complex but exciting world of **bug bounty hunting**. This is an open project — feel free to contribute!
 
-Hello! I'm **DARK**. I work as a Network and Information Security Engineer and Ethical Hacker. I've created this repository for everyone to contribute to, aiming to guide young and enthusiastic individuals in starting their careers in bug bounty. More content will be added regularly, so keep following along. Let's get started!
+> ⚠️ Note: The bug bounty landscape has evolved significantly. Easy vulnerabilities are now harder to find due to automation and high competition. Consistency, focus, and determination are key.
 
-***NOTE:*** The bug bounty landscape has evolved significantly over the past few years. Issues that were easy to find a year ago are now much more challenging. Automation is widely used, and most of the "low-hanging fruit" are often duplicated if you're unlucky. If you want to start in bug bounty, you need to be determined, consistent, and focused, as the competition is very intense.
+# 🧠 What You Need to Know
 
-# Introduction
+## 🔹 What is a Bug?
+A bug is a flaw in software or hardware logic that can compromise confidentiality, integrity, or availability when exploited.
 
-- **What is a bug?**
-  - A security bug or vulnerability is a weakness in the computational logic (e.g., code) found in software and hardware components that, when exploited, negatively impacts confidentiality, integrity, or availability.
+## 🔹 What is a Bug Bounty?
+A bug bounty, or bug bounty program, is IT jargon for a reward program offered for finding and reporting bugs in a particular software product. Many IT companies offer bug bounties to drive product improvement and increase interaction from end users or clients. Companies with bug bounty programs may receive hundreds of bug reports, including security bugs and vulnerabilities, with many reporters standing to receive awards.
 
-- **What is Bug Bounty?**
-  - A bug bounty, or bug bounty program, is IT jargon for a reward program offered for finding and reporting bugs in a particular software product. Many IT companies offer bug bounties to drive product improvement and increase interaction from end users or clients. Companies with bug bounty programs may receive hundreds of bug reports, including security bugs and vulnerabilities, with many reporters standing to receive awards.
+## 🔹 What are the Rewards?
+Rewards depend on severity and impact:
 
-- **What is the Reward?**
-  - Rewards vary based on the severity of the issue and the cost to fix it. They can range from real money (most common) to premium subscriptions (e.g., Prime, Netflix), discount coupons (for e-commerce or shopping sites), gift vouchers, and swags (apparel, badges, customized stationery, etc.). Monetary rewards can range from $50 to $50,000 or even more.
-# What to learn?
+- 💵 Monetary: $50 – $50,000+
 
- - **Technical**
-	 - **Computer Fundamentals**
-		 - https://www.comptia.org/training/by-certification/a
-		 - https://youtu.be/y2kg3MOk1sY?si=UARPFFqJLnN7_U3H
-		 - https://www.tutorialspoint.com/computer_fundamentals/index.htm
+- 🎁 Swag: Apparel, badges, custom items
+
+- 🎟️ Vouchers: Coupons, subscriptions (e.g. Netflix, Prime)
+
+
+# 📘 What to Learn
+
+ - ## **Technical Foundations**
+	 - ### **🔸Computer Fundamentals**
+		 - [CompTIA A+](https://www.comptia.org/training/by-certification/a)
+		 - [Computer Basics YouTube](https://youtu.be/y2kg3MOk1sY?si=UARPFFqJLnN7_U3H)
+		 - [TutorialsPoint](https://www.tutorialspoint.com/computer_fundamentals/index.htm)
 		 - https://www.geeksforgeeks.org/computer-fundamentals-tutorial/
 		 - https://www.udemy.com/course/computer-fundamentals-u/
 		 - https://www.coursera.org/courses?query=computer%20fundamentals
