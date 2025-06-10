@@ -1,4 +1,6 @@
-# 🐞 Bug Bounty Beginner Roadmap
+![Bug-Bounty-](https://github.com/user-attachments/assets/78a16f3e-a033-4243-9b21-ddcb96beb89d)
+# 🐞 Bug Bounty Beginner 
+Roadmap
 A curated roadmap for aspiring bug bounty hunters to get started, learn effectively, and level up their skills.
 
 ## 👋 Introduction
