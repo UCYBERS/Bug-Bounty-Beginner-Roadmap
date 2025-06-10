@@ -134,7 +134,7 @@ Rewards depend on severity and impact:
      - [UCYBERS](https://youtube.com/@ucybers)
 
 
-# 🐦 Join Twitter Today!
+# 🐦 Join X (Twitter) Today!
 
 World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter (X) now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
 
