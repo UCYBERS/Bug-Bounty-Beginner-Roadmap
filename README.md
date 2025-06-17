@@ -140,48 +140,50 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 
 - [UCYBERS X (Twitter)](https://x.com/UCybersX)
 
-# 🔐 PRACTICE! PRACTICE! and PRACTICE!
+# 🔐 Practice! Practice! Practice!
 
  - ## **CTF Platforms**
 	 - [Hacker 101](https://www.hackerone.com/hackers/hacker101)
 	 - [PicoCTF](https://picoctf.org/)
-	 - TryHackMe: https://tryhackme.com/ (premium/free)
-	 - HackTheBox: https://www.hackthebox.com/ (premium)
-	 - VulnHub: https://www.vulnhub.com/
-	 - HackThisSite: https://hackthissite.org/
-	 - CTFChallenge: https://ctfchallenge.co.uk/
-	 - PentesterLab: https://pentesterlab.com/referral/olaL4k8btE8wqA (premium)
+	 - [TryHackMe](https://tryhackme.com/)  *(Free/Paid)*
+	 - [HackTheBox](https://www.hackthebox.com/) *(Paid)*
+	 - [VulnHub](https://www.vulnhub.com/)
+	 - [HackThisSite](https://hackthissite.org/)
+	 - [CTFChallenge](https://ctfchallenge.co.uk/)
+	 - [PentesterLab](https://pentesterlab.com/referral/olaL4k8btE8wqA)
+  	 - [Flagyard](https://flagyard.com/)
+   	 - [CyberTalents](https://cybertalents.com/challenges)
 
- - **Online Labs**
-	 - PortSwigger Web Security Academy: https://portswigger.net/web-security
-	 - OWASP Juice Shop: https://owasp.org/www-project-juice-shop/
-	 - XSSGame: https://xss-game.appspot.com/
-	 - BugBountyHunter: https://www.bugbountyhunter.com/ (premium)
-	 - W3Challs : https://w3challs.com/
+ - ## **🧪 Online Labs**
+	 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free, interactive web security training.
+	 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Intentionally vulnerable web app for learning.
+	 - [XSSGame by Google](https://xss-game.appspot.com/) – XSS challenges in an interactive game format. 
+	 - [BugBountyHunter](https://www.bugbountyhunter.com/) *(Premium)* – Real-world bug bounty training platform.
+	 - [W3Challs](https://w3challs.com/) – Security and hacking challenge platform.
 
- - **Offline Labs**
-	 - DVWA: https://dvwa.co.uk/
-	 - bWAPP: http://www.itsecgames.com/
-	 - Metasploitable2: https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
-	 - BugBountyHunter: https://www.bugbountyhunter.com/ (premium)
-	 - W3Challs : https://w3challs.com/
+ - ## **💻 Offline Labs**
+	 - [DVWA (Damn Vulnerable Web App)](https://dvwa.co.uk/) – PHP/MySQL app for testing vulnerabilities.
+	 - [bWAPP (Buggy Web Application)](http://www.itsecgames.com/) – Web app with over 100 web bugs. 
+	 - [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) – Vulnerable Linux VM for pentesting 
+	 - [BugBountyHunter](https://www.bugbountyhunter.com/) *(Premium)* – Also includes downloadable labs. 
+	 - [W3Challs](https://w3challs.com/ ) – Some challenges can be run locally. 
 
-### More Tools and Services To use
+# 🌐 Search Engines & OSINT Tools
 
-- **Servers**
+- ## **Servers & Internet Mapping**
 
-- [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
-- [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet to reduce exposure and improve security
-- [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
-- [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
-- [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
-- [Natlas](https://natlas.io/) - Scaling Network Scanning
-- [Netlas.io](https://netlas.io/) - Discover, Research and Monitor any Assets Available Online
-- [FOFA](https://fofa.info/) - Cyberspace mapping
-- [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
-- [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
+	- [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
+	- [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet to reduce exposure and improve security
+	- [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
+	- [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
+	- [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
+	- [Natlas](https://natlas.io/) - Scaling Network Scanning
+	- [Netlas.io](https://netlas.io/) - Discover, Research and Monitor any Assets Available Online
+	- [FOFA](https://fofa.info/) - Cyberspace mapping
+	- [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
+	- [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
 
-### Vulnerabilities
+# 🔍 Vulnerability Databases
 
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - US National Vulnerability Database
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
@@ -211,7 +213,7 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 - [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
 - [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database
 
-### Exploits
+# 💥 Exploits & Payloads
 
 - [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
 - [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
@@ -242,53 +244,56 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 - [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) - How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution
 
 
-# Bug Bounty Platforms
+# 🐞 Bug Bounty Platforms
 
- - **Crowdsourcing**
-	 - Bugcrowd: https://www.bugcrowd.com/
-	 - Hackerone: https://www.hackerone.com/
-	 - Intigriti: https://www.intigriti.com/
-	 - YesWeHack: https://www.yeswehack.com/
-	 - OpenBugBounty: https://www.openbugbounty.org/
+ - ## **Crowdsourcing Platforms**
+	 - [Bugcrowd](https://www.bugcrowd.com/)
+	 - [Hackerone](https://www.hackerone.com/)
+	 - [Intigriti](https://www.intigriti.com/)
+	 - [YesWeHack](https://www.yeswehack.com/)
+	 - [OpenBugBounty](https://www.openbugbounty.org/)
 
- - **Individual** **Programs**
-	 - Meta: https://www.facebook.com/whitehat
-	 - Google: https://about.google/appsecurity/
+ - ## **Individual Programs**
+	 - [Meta (Facebook)](https://www.facebook.com/whitehat)
+	 - [Google](https://about.google/appsecurity/)
 
-# Bug Bounty Report Format
+# 📝 Bug Bounty Report Format
 
- - **Title**
+ - ## **Title**
 	 - The first impression is the last impression, the security engineer
    looks at the title first and he should be able to identify the issue.
    - Write about what kind of functionality you can able to abuse or what kind
    of protection you can bypass. Write in just one line.
    - Include the Impact of the issue in the title if possible.
 
- - **Description**
+ - ## **Description**
 	 - This component provides details of the vulnerability, you can explain the vulnerability here, write about the paths, endpoints, error messages you got while testing. You can also attach HTTP requests, vulnerable source code.
 
- - **Steps to Reproduce**
+ - ## **Steps to Reproduce**
 	 - Write the stepwise process to recreate the bug. It is important for an app owner to be able to verify what you've found and understand the scenario.
 	 - You must write each step clearly in-order to demonstrate the issue. that helps security engineers to triage fast.
 
- - **Proof of Concept**
+ - ## **Proof of Concept**
 	 - This component is the visual of the whole work. You can record a demonstration video or attach screenshots.
 
- - **Impact**
+ - ## **Impact**
 	 - Write about the real-life impact, How an attacker can take advantage if he/she successfully exploits the vulnerability. 
 	 - What type of possible damages could be done? (avoid writing about the theoretical impact)
 	 - Should align with the business objective of the organization
 
-**Sample Report**
+# **Sample Report**
 
 ![](https://miro.medium.com/max/1400/1*7lVhULTI7ch4uMLEKVZDrA.png)
 
-### Some additional Tips
-1. **Don't do bug bounty as a full time** in the beginning (although I suggest don't do it full time at any point). There is no guarantee to get bugs every other day, there is no stability. Always keep multiple sources of income (bug bounty not being the primary).
-2. **Stay updated**, learning should never stop. Join twitter, follow good people, maintain the curiosity to learn something new every day. Read writeups, blogs and keep expanding your knowledge.
-3. Always see **bug bounty as a medium to enhance your skills**. Money will come only after you have the skills. Take money as a motivation only.
-4. **Don't be dependent on automation**. You can't expect a tool to generate money for you. Automation is everywhere. The key to success in Bug Bounty is to be unique. Build your own methodology, learn from others and apply on your own. 
-5. Always try to escalate the severity of the bug, **Keep a broader mindset**. An RCE always has higher impact than arbitrary file upload.
-6. It's not necessary that a vulnerability will be rewarded based on the industry defined standard impact. The asset owners **rate the issue with a risk rating**, often calculated as *impact * likelyhood* (exploitability). For example, an SQL Injection by default has a Critical impact, but if the application is accessible only inside the organization VPN and doesn't contain any user data/PII in the database, the likelyhood of the exploitation is reduced, so does the risk.
-6. **Stay connected to the community**. Learn and contribute. There is always someone better than you in something. don't miss an opportunity to network. Join forums, go to conferences and hacking events, meet people, learn from their experiences. 
-7. **Always be helpful**.
+# 💡 Pro Tips for Bug Bounty
+-  **Don't do bug bounty as a full time** in the beginning (although I suggest don't do it full time at any point). There is no guarantee to get bugs every other day, there is no stability. Always keep multiple sources of income (bug bounty not being the primary).
+-  **Stay updated**, learning should never stop. Join Twitter/X, follow good people, maintain the curiosity to learn something new every day. Read writeups, blogs and keep expanding your knowledge.
+-  Always see **bug bounty as a medium to enhance your skills**. Money will come only after you have the skills. Take money as a motivation only.
+-  **Don't be dependent on automation**. You can't expect a tool to generate money for you. Automation is everywhere. The key to success in Bug Bounty is to be unique. Build your own methodology, learn from others and apply on your own. 
+- Always try to escalate the severity of the bug, **Keep a broader mindset**. An RCE always has higher impact than arbitrary file upload.
+- It's not necessary that a vulnerability will be rewarded based on the industry defined standard impact. The asset owners **rate the issue with a risk rating**, often calculated as *impact * likelyhood* (exploitability). For example, an SQL Injection by default has a Critical impact, but if the application is accessible only inside the organization VPN and doesn't contain any user data/PII in the database, the likelyhood of the exploitation is reduced, so does the risk.
+-  **Stay connected to the community**. Learn and contribute. There is always someone better than you in something. don't miss an opportunity to network. Join forums, go to conferences and hacking events, meet people, learn from their experiences. 
+- **Always be helpful** Giving back improves your reputation.
+
+# 📬 Contributions Welcome
+Pull requests are welcome! Share your favorite writeups, tutorials, or tools to help grow this resource for all beginners.
