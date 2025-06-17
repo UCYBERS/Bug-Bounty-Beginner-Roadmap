@@ -300,3 +300,4 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 
 # 📬 Contributions Welcome
 Pull requests are welcome! Share your favorite writeups, tutorials, or tools to help grow this resource for all beginners.
+👉 For more details on how to contribute, please check out our [CONTRIBUTING.md](https://github.com/UCYBERS/Bug-Bounty-Beginner-Roadmap/blob/main/CONTRIBUTING.md) guide.
