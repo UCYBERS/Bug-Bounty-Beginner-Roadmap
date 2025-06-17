@@ -1,5 +1,8 @@
-# 🐞 Bug Bounty Beginner 
-Roadmap
+
+![Bug Bounty Beginner Roadmap](https://github.com/user-attachments/assets/92907825-0af7-4964-8657-f94a56e70e9b)
+
+# 🐞 Bug Bounty Beginner Roadmap [![Last Update](https://img.shields.io/badge/Updated-June%202025-blue)](https://github.com/UCYBERS/Bug-Bounty-Beginner-Roadmap)
+
 A curated roadmap for aspiring bug bounty hunters to get started, learn effectively, and level up their skills.
 
 ## 👋 Introduction
