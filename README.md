@@ -175,76 +175,76 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 
 - ## **Servers & Internet Mapping**
 
-	- [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
-	- [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet to reduce exposure and improve security
-	- [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
-	- [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
-	- [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
-	- [Natlas](https://natlas.io/) - Scaling Network Scanning
-	- [Netlas.io](https://netlas.io/) - Discover, Research and Monitor any Assets Available Online
-	- [FOFA](https://fofa.info/) - Cyberspace mapping
-	- [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
-	- [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
+	- [Shodan](https://shodan.io) 
+	- [Censys Search](https://search.censys.io/)
+	- [Onyphe.io](https://www.onyphe.io/) 
+	- [ZoomEye](https://www.zoomeye.org/) 
+	- [GreyNoise](https://viz.greynoise.io/) 
+	- [Natlas](https://natlas.io/) 
+	- [Netlas.io](https://netlas.io/) 
+	- [FOFA](https://fofa.info/)
+	- [Quake](https://quake.360.net/quake/#/index) 
+	- [Hunter](https://hunter.how/) 
 
 # 🔍 Vulnerability Databases
 
-- [NIST NVD](https://nvd.nist.gov/vuln/search) - US National Vulnerability Database
-- [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
-- [GitHub Advisory Database](https://github.com/advisories) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories
-- [cloudvulndb.org](https://www.cloudvulndb.org/) - The Open Cloud Vulnerability & Security Issue Database
-- [osv.dev](https://osv.dev/list) - Open Source Vulnerabilities
-- [Vulners.com](https://vulners.com/) - Your Search Engine for Security Intelligence
-- [opencve.io](https://www.opencve.io/cve) - Easiest way to track CVE updates and be alerted about new vulnerabilities
-- [security.snyk.io](https://security.snyk.io/) - Open Source Vulnerability Database
-- [Mend Vulnerability Database](https://www.mend.io/vulnerability-database/) - The largest open source vulnerability DB
-- [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
-- [CVEDetails](https://www.cvedetails.com/) - The ultimate security vulnerability datasource
-- [VulnIQ](https://vulniq.com/) - Vulnerability intelligence and management solution
-- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [Aqua Vulnerability Database](https://avd.aquasec.com/) - Vulnerabilities and weaknesses in open source applications and cloud native infrastructure
-- [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
-- [VulDB](https://vuldb.com/) - Number one vulnerability database
-- [ScanFactory](https://in.scanfactory.io/cvemon.html) - Realtime Security Monitoring
-- [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) - Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers
-- [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
-- [Trickest CVE Repository](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC
-- [cnvd.org.cn](https://www.cnvd.org.cn/) - Chinese National Vulnerability Database
-- [InTheWild.io](https://inthewild.io/feed) - Check CVEs in our free, open source feed of exploited vulnerabilities
-- [Vulnerability Lab](https://www.vulnerability-lab.com/) - Vulnerability research, bug bounties and vulnerability assessments
-- [Red Hat Security Advisories](https://access.redhat.com/security/security-updates/) - Information about security flaws that affect Red Hat products and services in the form of security advisories
-- [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) - Security advisories and vulnerability information for Cisco products, including network equipment and software
-- [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
-- [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database
+- [NIST NVD](https://nvd.nist.gov/vuln/search) 
+- [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) 
+- [GitHub Advisory Database](https://github.com/advisories)
+- [cloudvulndb.org](https://www.cloudvulndb.org/) 
+- [osv.dev](https://osv.dev/list) 
+- [Vulners.com](https://vulners.com/) 
+- [opencve.io](https://www.opencve.io/cve) 
+- [security.snyk.io](https://security.snyk.io/) 
+- [Mend Vulnerability Database](https://www.mend.io/vulnerability-database/) 
+- [Rapid7 - DB](https://www.rapid7.com/db/) 
+- [CVEDetails](https://www.cvedetails.com/) 
+- [VulnIQ](https://vulniq.com/) 
+- [SynapsInt](https://synapsint.com/) 
+- [Aqua Vulnerability Database](https://avd.aquasec.com/) 
+- [Vulmon](https://vulmon.com/) 
+- [VulDB](https://vuldb.com/) 
+- [ScanFactory](https://in.scanfactory.io/cvemon.html) 
+- [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) 
+- [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) 
+- [Trickest CVE Repository](https://github.com/trickest/cve) 
+- [cnvd.org.cn](https://www.cnvd.org.cn/) 
+- [InTheWild.io](https://inthewild.io/feed) 
+- [Vulnerability Lab](https://www.vulnerability-lab.com/) 
+- [Red Hat Security Advisories](https://access.redhat.com/security/security-updates/) 
+- [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) 
+- [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) 
+- [VARIoT](https://www.variotdbs.pl/vulns/) 
 
 # 💥 Exploits & Payloads
 
-- [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
-- [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
-- [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
-- [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
-- [packetstormsecurity.com](https://packetstormsecurity.com/) - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers
-- [0day.today](https://0day.today/) - Ultimate database of exploits and vulnerabilities
-- [LOLBAS](https://lolbas-project.github.io/) - Living Off The Land Binaries, Scripts and Libraries
-- [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
-- [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - A list of useful payloads and bypasses for Web Application Security
-- [XSS Payloads](http://www.xss-payloads.com/) - The wonderland of JavaScript unexpected usages, and more
-- [exploitalert.com](https://www.exploitalert.com/search-results.html) - Database of Exploits
-- [Reverse Shell generator](https://www.revshells.com/) - Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode
-- [HackerOne hacktivity](https://hackerone.com/hacktivity) - See the latest hacker activity on HackerOne
-- [Bugcrowd Crowdstream](https://bugcrowd.com/crowdstream) - Showcase of accepted and disclosed submissions on Bugcrowd programs
-- [GTFOArgs](https://gtfoargs.github.io/) - Curated list of Unix binaries that can be manipulated for argument injection
-- [shell-storm.org/shellcode](https://shell-storm.org/shellcode/index.html) - Shellcodes database for study cases
-- [Hacking the Cloud](https://hackingthe.cloud/) - Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure
-- [LOLDrivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
-- [PwnWiki](http://pwnwiki.io/) - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
-- [CVExploits Search](https://cvexploits.io/) - Your comprehensive database for CVE exploits from across the internet
-- [VARIoT](https://www.variotdbs.pl/exploits/) - VARIoT IoT exploits database
-- [LOOBins](https://www.loobins.io/) - Detailed information on various built-in macOS binaries and how they can be used by threat actors for malicious purposes
-- [Coalition Exploit Scoring System](https://ess.coalitioninc.com/) - Model that dynamically scores new and existing vulnerabilities to reflect their exploit likelihood
-- [WADComs](https://wadcoms.github.io/) - Interactive cheat sheet containing a curated list of offensive security tools and their respective commands to be used against Windows/AD environments
-- [LOLAPPS](https://lolapps-project.github.io/) - Compendium of applications that can be used to carry out day-to-day exploitation
-- [Living off the Hardware](https://lothardware.com.tr/) - Resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices
-- [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) - How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution
+- [Exploit-DB](https://www.exploit-db.com/) 
+- [Sploitus](https://sploitus.com/) 
+- [Rapid7 - DB](https://www.rapid7.com/db/) 
+- [Vulmon](https://vulmon.com/) 
+- [packetstormsecurity.com](https://packetstormsecurity.com/) 
+- [0day.today](https://0day.today/) 
+- [LOLBAS](https://lolbas-project.github.io/) 
+- [GTFOBins](https://gtfobins.github.io/) 
+- [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) 
+- [XSS Payloads](http://www.xss-payloads.com/) 
+- [exploitalert.com](https://www.exploitalert.com/search-results.html) 
+- [Reverse Shell generator](https://www.revshells.com/) 
+- [HackerOne hacktivity](https://hackerone.com/hacktivity) 
+- [Bugcrowd Crowdstream](https://bugcrowd.com/crowdstream) 
+- [GTFOArgs](https://gtfoargs.github.io/) 
+- [shell-storm.org/shellcode](https://shell-storm.org/shellcode/index.html) 
+- [Hacking the Cloud](https://hackingthe.cloud/) 
+- [LOLDrivers](https://www.loldrivers.io/) 
+- [PwnWiki](http://pwnwiki.io/) 
+- [CVExploits Search](https://cvexploits.io/) 
+- [VARIoT](https://www.variotdbs.pl/exploits/) 
+- [LOOBins](https://www.loobins.io/) 
+- [Coalition Exploit Scoring System](https://ess.coalitioninc.com/) 
+- [WADComs](https://wadcoms.github.io/) 
+- [LOLAPPS](https://lolapps-project.github.io/) 
+- [Living off the Hardware](https://lothardware.com.tr/) 
+- [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) 
 
 
 # 🐞 Bug Bounty Platforms
@@ -289,14 +289,14 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 ![](https://miro.medium.com/max/1400/1*7lVhULTI7ch4uMLEKVZDrA.png)
 
 # 💡 Pro Tips for Bug Bounty
--  **Don't do bug bounty as a full time** in the beginning (although I suggest don't do it full time at any point). There is no guarantee to get bugs every other day, there is no stability. Always keep multiple sources of income (bug bounty not being the primary).
--  **Stay updated**, learning should never stop. Join Twitter/X, follow good people, maintain the curiosity to learn something new every day. Read writeups, blogs and keep expanding your knowledge.
--  Always see **bug bounty as a medium to enhance your skills**. Money will come only after you have the skills. Take money as a motivation only.
--  **Don't be dependent on automation**. You can't expect a tool to generate money for you. Automation is everywhere. The key to success in Bug Bounty is to be unique. Build your own methodology, learn from others and apply on your own. 
-- Always try to escalate the severity of the bug, **Keep a broader mindset**. An RCE always has higher impact than arbitrary file upload.
-- It's not necessary that a vulnerability will be rewarded based on the industry defined standard impact. The asset owners **rate the issue with a risk rating**, often calculated as *impact * likelyhood* (exploitability). For example, an SQL Injection by default has a Critical impact, but if the application is accessible only inside the organization VPN and doesn't contain any user data/PII in the database, the likelyhood of the exploitation is reduced, so does the risk.
--  **Stay connected to the community**. Learn and contribute. There is always someone better than you in something. don't miss an opportunity to network. Join forums, go to conferences and hacking events, meet people, learn from their experiences. 
-- **Always be helpful** Giving back improves your reputation.
+-  **Don’t go full-time early on.** It's unstable as a primary income source.
+-  **Keep learning.** Follow experts on Twitter/X, read blogs, and watch talks.
+-  **Focus on skill building first.** Money will follow naturally.
+-  **Avoid over-relying on tools.** Develop a unique methodology.
+-  **Try to escalate impact.** Think beyond the obvious.
+-  **Understand business risk.** Not all vulnerabilities have equal value
+-  **Engage with the community.** Join forums, Discord servers, and conferences. 
+-  **Always be helpful** Giving back improves your reputation.
 
 # 📬 Contributions Welcome
 Pull requests are welcome! Share your favorite writeups, tutorials, or tools to help grow this resource for all beginners.
