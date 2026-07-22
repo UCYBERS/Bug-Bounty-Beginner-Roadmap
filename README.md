@@ -95,6 +95,7 @@ Rewards depend on severity and impact:
 	 - [Bug Bounty Bootcamp](https://www.amazon.in/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3)
 	 - [Hands on Bug Hunting](https://www.amazon.in/Hands-Bug-Hunting-Penetration-Testers-ebook/dp/B07DTF2VL6)
 	 - [Hacker's Playbook 3](https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
+	 - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 	 - [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project)
 	 - [Web Hacking 101](https://www.pdfdrive.com/web-hacking-101-e26570613.html)
 	 - [OWASP Mobile Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
